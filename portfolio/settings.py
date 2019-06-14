@@ -25,7 +25,9 @@ SECRET_KEY = 'qk9ntk&2zjbpnx^_pmu8lj16kk%)97thohhcmu4s)!shp$ipt_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'http://narin269.pythonanywhere.com/'
+]
 
 
 # Application definition
